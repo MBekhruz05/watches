@@ -12,6 +12,7 @@
   color: #fff;
   border-radius: 0px !important;
   height:40vh;
+  scroll-behavior: smooth;
 }
 
 .ms_title {
